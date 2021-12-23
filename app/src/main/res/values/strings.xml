@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">geektech.android.6hw</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="order">Выполните вход \nили зарегистрируйтесь.</string>
+    <string name="entrance">Вход</string>
+    <string name="enteryouremail">Введите вашу почту</string>
+    <string name="enteryourpassword">Введите пароль</string>
+    <string name="enter">Войти</string>
+    <string name="forgetpassword">Забыли пароль ?</string>
+</resources>
